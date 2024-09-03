@@ -20,9 +20,9 @@ Here are some ideas to get you started:
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=green&size=35&center=true&vCenter=true&width=1000&lines=Bem+vindo+ao+meu+perfil+do+GitHub!+:%29)](https://git.io/typing-svg)
 
-Desenvolvedor em ascensão com interesse em DevOps e desenvolvimento de software. Buscando sempre aprender novas tecnologias e aplicar o conhecimento em projetos práticos.
 
-Técnico de Suporte em TI com vasta experiência em manutenção e suporte técnico de notebooks, impressoras, servidores e câmeras, além de instalação e configuração de diversos equipamentos de TI. Tenho habilidades sólidas em diagnóstico e resolução de problemas, gerenciamento de infraestrutura de TI, e configuração de ambientes Windows e Linux.
+
+Técnico de Suporte em TI com vasta experiência em manutenção e suporte técnico de notebooks, desktop, impressoras, servidores e câmeras, além de instalação e configuração de diversos equipamentos de TI. Tenho habilidades sólidas em diagnóstico e resolução de problemas, gerenciamento de infraestrutura de TI, e configuração de ambientes Windows e Linux.
 Possuo experiência em ServiceNow, realizando a abertura e fechamento de chamados e atendimento ao usuário. Tenho conhecimento em AWS, especialmente em serviços relacionados à infraestrutura e automação.
 Além disso, sou proficiente em JavaScript, Node.js, Python, API REST, JSON, GitHub, Docker, MongoDB e MySQL, o que me permite desenvolver e integrar soluções modernas e escaláveis em diferentes ambientes de TI.
 Objetivo Profissional

@@ -14,9 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center" style="color: #30A3DC;">
-    <img src="" width="40px" style="vertical-align: middle;"> SEJA BEM VINDO
-</h1>
+<h1 align="center" style="color: #30A3DC;">SEJA BEM VINDO</h1>
 
  # Achilles Oliveira Souza ( akillez01 )
 

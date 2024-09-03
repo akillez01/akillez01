@@ -22,11 +22,29 @@ Here are some ideas to get you started:
 
 
 
-Técnico de Suporte em TI com vasta experiência em manutenção e suporte técnico de notebooks, desktop, impressoras, servidores e câmeras, além de instalação e configuração de diversos equipamentos de TI. Tenho habilidades sólidas em diagnóstico e resolução de problemas, gerenciamento de infraestrutura de TI, e configuração de ambientes Windows e Linux.
-Possuo experiência em ServiceNow, realizando a abertura e fechamento de chamados e atendimento ao usuário. Tenho conhecimento em AWS, especialmente em serviços relacionados à infraestrutura e automação.
-Além disso, sou proficiente em JavaScript, Node.js, Python, API REST, JSON, GitHub, Docker, MongoDB e MySQL, o que me permite desenvolver e integrar soluções modernas e escaláveis em diferentes ambientes de TI.
-Objetivo Profissional
-Estou em transição para a área de DevOps e Desenvolvimento Backend, com foco em automação de infraestrutura e desenvolvimento de aplicações Java com Spring Boot. Busco oportunidades para aplicar minhas competências técnicas em ambientes desafiadores, contribuindo para a eficiência e segurança das operações de TI. Meu objetivo é me especializar em DevOps e Desenvolvimento Backend, integrando práticas ágeis e automação para entregar soluções robustas e escaláveis. Estou motivado a continuar aprendendo e a crescer profissionalmente em uma organização que valorize inovação e desenvolvimento contínuo.
+Profissional de TI com experiência em:
+
+Suporte Técnico: Resolução de problemas em computadores, impressoras e redes.
+Infraestrutura: Configuração e manutenção de servidores e sistemas operacionais.
+Automação: Utilização de ferramentas para automatizar tarefas e otimizar processos.
+Desenvolvimento: Criação de pequenas aplicações e integração de sistemas.
+Busco uma oportunidade para:
+
+Aprender e crescer na área de DevOps e Desenvolvimento Backend.
+Contribuir para projetos que envolvam automação e desenvolvimento de software.
+Aplicar meus conhecimentos em um ambiente colaborativo e inovador.
+Minhas habilidades incluem:
+
+Tecnologias: Windows, Linux, Python, JavaScript, Docker, AWS.
+Ferramentas: ServiceNow, GitHub.
+Sou um profissional:
+
+Proativo: Busco sempre novas soluções e aprimorar meus conhecimentos.
+Adaptavel: Facilidade em aprender novas tecnologias e ferramentas.
+Colaborativo: Trabalho bem em equipe e gosto de compartilhar conhecimento.
+Objetivo:
+
+Atuar em uma equipe de desenvolvimento, aprendendo e contribuindo para a construção de soluções de qualidade.
 
 ## Conecte-se comigo
 

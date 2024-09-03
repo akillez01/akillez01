@@ -22,6 +22,12 @@ Here are some ideas to get you started:
 
 Desenvolvedor em ascensão com interesse em DevOps e desenvolvimento de software. Buscando sempre aprender novas tecnologias e aplicar o conhecimento em projetos práticos.
 
+Técnico de Suporte em TI com vasta experiência em manutenção e suporte técnico de notebooks, impressoras, servidores e câmeras, além de instalação e configuração de diversos equipamentos de TI. Tenho habilidades sólidas em diagnóstico e resolução de problemas, gerenciamento de infraestrutura de TI, e configuração de ambientes Windows e Linux.
+Possuo experiência em ServiceNow, realizando a abertura e fechamento de chamados e atendimento ao usuário. Tenho conhecimento em AWS, especialmente em serviços relacionados à infraestrutura e automação.
+Além disso, sou proficiente em JavaScript, Node.js, Python, API REST, JSON, GitHub, Docker, MongoDB e MySQL, o que me permite desenvolver e integrar soluções modernas e escaláveis em diferentes ambientes de TI.
+Objetivo Profissional
+Estou em transição para a área de DevOps e Desenvolvimento Backend, com foco em automação de infraestrutura e desenvolvimento de aplicações Java com Spring Boot. Busco oportunidades para aplicar minhas competências técnicas em ambientes desafiadores, contribuindo para a eficiência e segurança das operações de TI. Meu objetivo é me especializar em DevOps e Desenvolvimento Backend, integrando práticas ágeis e automação para entregar soluções robustas e escaláveis. Estou motivado a continuar aprendendo e a crescer profissionalmente em uma organização que valorize inovação e desenvolvimento contínuo.
+
 ## Conecte-se comigo
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/achilles-oliveira-82a3a021a/)

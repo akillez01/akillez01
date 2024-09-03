@@ -14,9 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 style="text-align: center; color: #30A3DC; font-family: Arial, sans-serif; font-size: 24px;">
-    <img src="caminho/para/sua/imagem.png" width="40px" alt="Ícone Achilles" style="vertical-align: middle;"> ACHILLES
-</h1>
+<h1 align="center" style="color: #30A3DC;">ACHILLES</h1>
 
 # Achilles Oliveira Souza ( akillez01 )
 

@@ -23,27 +23,22 @@ Here are some ideas to get you started:
 
 
 Profissional de TI com experiência em:
-
 Suporte Técnico: Resolução de problemas em computadores, impressoras e redes.
 Infraestrutura: Configuração e manutenção de servidores e sistemas operacionais.
 Automação: Utilização de ferramentas para automatizar tarefas e otimizar processos.
 Desenvolvimento: Criação de pequenas aplicações e integração de sistemas.
 Busco uma oportunidade para:
-
 Aprender e crescer na área de DevOps e Desenvolvimento Backend.
 Contribuir para projetos que envolvam automação e desenvolvimento de software.
 Aplicar meus conhecimentos em um ambiente colaborativo e inovador.
 Minhas habilidades incluem:
-
 Tecnologias: Windows, Linux, Python, JavaScript, Docker, AWS.
 Ferramentas: ServiceNow, GitHub.
 Sou um profissional:
-
 Proativo: Busco sempre novas soluções e aprimorar meus conhecimentos.
 Adaptavel: Facilidade em aprender novas tecnologias e ferramentas.
 Colaborativo: Trabalho bem em equipe e gosto de compartilhar conhecimento.
 Objetivo:
-
 Atuar em uma equipe de desenvolvimento, aprendendo e contribuindo para a construção de soluções de qualidade.
 
 ## Conecte-se comigo

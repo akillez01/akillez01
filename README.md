@@ -93,4 +93,11 @@ Atuar em uma equipe de desenvolvimento, aprendendo e contribuindo para a constru
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=akillez01&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akillez01&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
+
+## Conecte-se comigo
+
+[![WhatsApp](https://img.icons8.com/color/48/00E676/whatsapp.png) WhatsApp](your_whatsapp_number)  (Replace "your_whatsapp_number" with your actual number)
+[![Telegram](https://img.icons8.com/color/48/0088CC/telegram-app.png) Telegram](your_telegram_username) (Replace "your_telegram_username" with your username)
+[![Discord](https://img.icons8.com/color/48/3498DB/discord-new.png) Discord](your_discord_username#discriminator)  (Replace "your_discord_username#discriminator" with your username and tag)
+
 </div>

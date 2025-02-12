@@ -96,8 +96,8 @@ Atuar em uma equipe de desenvolvimento, aprendendo e contribuindo para a constru
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/achilles-oliveira-82a3a021a/)
 [![GitLab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)](https://github.com/akillez01)
-[![WhatsApp](https://img.icons8.com/color/48/00E676/whatsapp.png) WhatsApp](your_whatsapp_number) 
-[![Telegram](https://img.icons8.com/color/48/0088CC/telegram-app.png) Telegram](your_telegram_username) 
+[![WhatsApp](https://img.icons8.com/color/48/00E676/whatsapp.png) WhatsApp](092986366861) 
+[![Telegram](https://img.icons8.com/color/48/0088CC/telegram-app.png) Telegram](092986366861) 
 [![Discord](https://img.icons8.com/color/48/3498DB/discord-new.png) Discord](your_discord_username#discriminator) 
 * **Para contato rápido:** Envie-me um e-mail para achilles.souza.oliveira@email.com.
 </div>
